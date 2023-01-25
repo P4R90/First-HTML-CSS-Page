@@ -1,0 +1,13 @@
+body {
+         background-image: url("burger.jpg");
+		 background-repeat: repeat;
+		 font-family: Arial, sans-serif;
+}
+h1 {
+        color: navy;
+        text-align: left;
+}
+p {
+        margin: 20px;
+        text-align: justify;
+}
