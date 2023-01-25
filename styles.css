@@ -1,5 +1,7 @@
 body {
-        background-color: lightgray;
+        /* background-color: lightgray; */
+        background-image: url("burger.jpeg");
+        background-repeat: repeat-y;
         font-family: Arial, sans-serif;
 }
 h1 {
